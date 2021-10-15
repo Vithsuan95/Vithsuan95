@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vithusan Soosaiaiyah
 - 👀 I’m interested in Coding, Football, Gym and learning to code some more
-- 🌱 I’m currently learning to improve my skills in coding HTML, CSS and JavaScript. I  want to constantly be learning and then move onto other languages toi widen my skills.
+- 🌱 I’m currently learning to improve my skills in coding HTML, CSS and JavaScript. I  want to constantly be learning and then move onto other languages to widen my skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me through my email vithusans95@hotmail.com
 
